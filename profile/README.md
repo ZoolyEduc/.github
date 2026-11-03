@@ -8,9 +8,6 @@
   Uma aventura educativa pelo Vale do Ribeira!
 </p>
 
-<p align="center">
-  <img src="assets/zooly-mockup.jpeg" width="100%" alt="Apresentação das telas do Zooly">
-</p>
 
 ## 📖 Descrição do Projeto
 
