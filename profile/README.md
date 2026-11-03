@@ -1,6 +1,18 @@
-# 🐾 Zooly — Aprender brincando!
+ <p align="center">
+  <img src="assets/zooly-logo.png" width="300" alt="Zooly com a Turma Animal">
+</p>
 
-## Descrição do Projeto
+<h1 align="center">🐾 Zooly — Aprender brincando!</h1>
+
+<p align="center">
+  Uma aventura educativa pelo Vale do Ribeira!
+</p>
+
+<p align="center">
+  <img src="assets/zooly-mockup.jpeg" width="100%" alt="Apresentação das telas do Zooly">
+</p>
+
+## 📖 Descrição do Projeto
 
 O **Zooly** é uma plataforma educacional gamificada desenvolvida com o objetivo de auxiliar crianças de 4 a 8 anos no desenvolvimento da leitura e da aprendizagem por meio de atividades interativas.
 
@@ -8,7 +20,7 @@ Inspirado nas histórias e na cultura do Vale do Ribeira, o projeto transforma o
 
 A plataforma conecta alunos e professores por meio de dois ambientes principais: um painel de gerenciamento educacional e um jogo educativo.
 
-## Objetivos do Projeto
+## 🎯 Objetivos do Projeto
 
 - Incentivar o desenvolvimento da leitura por meio de atividades interativas.
 - Tornar a aprendizagem mais atrativa utilizando elementos de gamificação.
@@ -16,13 +28,13 @@ A plataforma conecta alunos e professores por meio de dois ambientes principais:
 - Permitir que professores acompanhem o desenvolvimento dos alunos.
 - Proporcionar uma experiência acessível e intuitiva para crianças.
 
-## Produtos e Funcionalidades
+## 🐾 Produtos e Funcionalidades
 
 ### 1. Zooly Game — Ambiente do Aluno
 
 Ambiente interativo no qual os alunos exploram o universo Zooly e realizam atividades educativas.
 
-Principais funcionalidades:
+**Principais funcionalidades:**
 
 - Cadastro e acesso dos alunos.
 - Introdução e tutorial de aprendizagem.
@@ -37,7 +49,7 @@ Principais funcionalidades:
 
 Ambiente destinado aos professores para gerenciamento das turmas e acompanhamento das atividades dos alunos.
 
-Principais funcionalidades:
+**Principais funcionalidades:**
 
 - Cadastro e gerenciamento de professores.
 - Gerenciamento de turmas e alunos.
@@ -52,7 +64,7 @@ Principais funcionalidades:
 
 Responsável pela comunicação entre os ambientes da plataforma e pelo gerenciamento das informações.
 
-Principais funcionalidades:
+**Principais funcionalidades:**
 
 - Autenticação e autorização de usuários.
 - Gerenciamento de escolas, professores, turmas e alunos.
@@ -63,7 +75,7 @@ Principais funcionalidades:
 - Relatórios de desempenho.
 - Integração entre os ambientes Web e Game.
 
-## Tecnologias Utilizadas
+## 💻 Tecnologias Utilizadas
 
 | Área | Tecnologias |
 |---|---|
@@ -76,7 +88,7 @@ Principais funcionalidades:
 | Design | Figma |
 | Hospedagem | Vercel e Render |
 
-## Arquitetura do Projeto
+## 🏗️ Arquitetura do Projeto
 
 O Zooly é dividido em três repositórios independentes, que trabalham de forma integrada:
 
@@ -84,29 +96,29 @@ O Zooly é dividido em três repositórios independentes, que trabalham de forma
 2. **Zooly Game:** ambiente interativo dos alunos.
 3. **Zooly API:** backend responsável pelas regras de negócio e persistência dos dados.
 
-## Repositórios
+## 📂 Repositórios
 
 - [Zooly Web](https://github.com/ZoolyEduc/Zooly-web)
 - [Zooly Game](https://github.com/ZoolyEduc/Zooly-game)
 - [Zooly API](https://github.com/ZoolyEduc/Zooly-api)
 
-## Links do Projeto
+## 🌐 Links do Projeto
 
-- **Painel do Professor:** https://zooly-web.vercel.app/
-- **Jogo do Aluno:** https://zooly-game.vercel.app/
-- **API:** https://zooly-api.onrender.com
+- **Painel do Professor:** [Acessar Zooly Web](https://zooly-web.vercel.app/)
+- **Jogo do Aluno:** [Acessar Zooly Game](https://zooly-game.vercel.app/)
+- **API:** [Acessar Zooly API](https://zooly-api.onrender.com)
 
-## Organização e Gestão
+## 📋 Organização e Gestão
 
 O desenvolvimento do Zooly é organizado por meio de um quadro Kanban no GitHub Projects, que permite acompanhar as atividades, prioridades, andamento e entregas de cada repositório.
 
-## Equipe
+## 👥 Equipe
 
 **KofiTech — Desenvolvimento do Zooly**
 
 Projeto desenvolvido como parte do Projeto Integrador do curso de Desenvolvimento de Software Multiplataforma (DSM), da FATEC Registro.
 
-## Sobre o Projeto
+## 💚 Sobre o Projeto
 
 O Zooly acredita que aprender pode ser uma grande aventura! 🐾
 
